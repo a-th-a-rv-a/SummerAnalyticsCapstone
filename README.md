@@ -26,7 +26,7 @@ To optimize parking space utilization by adjusting prices in real-time based on:
 - Incorporates competitor prices and geographic proximity.
 - Suggests rerouting when necessary.
 
-## ⚙ Tech Stack
+## Tech Stack
 - **Data Processing**: Pandas, NumPy
 - **Streaming**: Pathway
 - **Visualization**: Bokeh + Panel
